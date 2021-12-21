@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uB61pkpNZJq53frsrZ5K+kpg0J6cejpvS2PjFqqskcrbOk98YRQXO8+j9WahUPorvGsaY/unElEq4QvlRuBYgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AllPrimeTech-7\\source\\repos\\XamarineBle\\MvvmCross.Plugins.BLE.Droid\\MvvmCross.Plugins.BLE.Droid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

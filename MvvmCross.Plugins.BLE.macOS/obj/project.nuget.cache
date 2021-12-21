@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "koWBKQriZ8JgTvV8g7MzFx/t6t266Tm9mf/mVrSxdHvEs540I/TDW7qQM4305Grdt3vDs/h7BVOsac6yTCIpnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AllPrimeTech-7\\source\\repos\\XamarineBle\\MvvmCross.Plugins.BLE.macOS\\MvvmCross.Plugins.BLE.macOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

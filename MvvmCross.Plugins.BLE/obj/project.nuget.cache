@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBIo9UOcHl0jiRUBcR+G3TXAFd11VMw8INFFvOEi0IHMRxysQwKVKje3ALO8cmiRUj/ieHSe9HGbanEMY14YBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AllPrimeTech-7\\source\\repos\\XamarineBle\\MvvmCross.Plugins.BLE\\MvvmCross.Plugins.BLE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

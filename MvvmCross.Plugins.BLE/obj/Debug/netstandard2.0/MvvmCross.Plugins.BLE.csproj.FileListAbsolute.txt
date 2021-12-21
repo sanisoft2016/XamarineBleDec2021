@@ -1,0 +1,13 @@
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\bin\Debug\netstandard2.0\MvvmCross.Plugins.BLE.deps.json
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\bin\Debug\netstandard2.0\MvvmCross.Plugins.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\bin\Debug\netstandard2.0\MvvmCross.Plugins.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\bin\Debug\netstandard2.0\Plugin.BLE.Abstractions.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\bin\Debug\netstandard2.0\Plugin.BLE.Abstractions.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\obj\Debug\netstandard2.0\MvvmCross.Plugins.BLE.csproj.AssemblyReference.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\obj\Debug\netstandard2.0\MvvmCross.Plugins.BLE.AssemblyInfoInputs.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\obj\Debug\netstandard2.0\MvvmCross.Plugins.BLE.AssemblyInfo.cs
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\obj\Debug\netstandard2.0\MvvmCross.Plugins.BLE.csproj.CoreCompileInputs.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\obj\Debug\netstandard2.0\MvvmCross.Plugins.BLE.csproj.CopyComplete
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\obj\Debug\netstandard2.0\MvvmCross.Plugins.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\obj\Debug\netstandard2.0\MvvmCross.Plugins.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE\obj\Debug\netstandard2.0\MvvmCross.Plugins.BLE.GeneratedMSBuildEditorConfig.editorconfig

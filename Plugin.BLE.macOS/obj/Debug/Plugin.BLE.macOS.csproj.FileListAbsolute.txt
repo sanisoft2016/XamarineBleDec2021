@@ -1,0 +1,10 @@
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\bin\Debug\Plugin.BLE.macOS.xml
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\bin\Debug\Plugin.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\bin\Debug\Plugin.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\bin\Debug\Plugin.BLE.Abstractions.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\bin\Debug\Plugin.BLE.Abstractions.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\obj\Debug\Plugin.BLE.macOS.csproj.AssemblyReference.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\obj\Debug\Plugin.BLE.macOS.csproj.CoreCompileInputs.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\obj\Debug\Plugin.BLE.macOS.csproj.CopyComplete
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\obj\Debug\Plugin.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE.macOS\obj\Debug\Plugin.BLE.pdb

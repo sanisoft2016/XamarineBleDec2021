@@ -1,0 +1,14 @@
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\bin\iPhone\Debug\MvvmCross.Plugins.BLE.iOS.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\bin\iPhone\Debug\MvvmCross.Plugins.BLE.iOS.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\bin\iPhone\Debug\MvvmCross.Plugins.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\bin\iPhone\Debug\Plugin.BLE.Abstractions.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\bin\iPhone\Debug\Plugin.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\bin\iPhone\Debug\MvvmCross.Plugins.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\bin\iPhone\Debug\Plugin.BLE.Abstractions.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\bin\iPhone\Debug\Plugin.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\obj\Debug\optimized\
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\obj\Debug\MvvmCross.Plugins.BLE.iOS.csproj.AssemblyReference.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\obj\Debug\MvvmCross.Plugins.BLE.iOS.csproj.CoreCompileInputs.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\obj\Debug\MvvmCross.Plugins.BLE.iOS.csproj.CopyComplete
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\obj\Debug\MvvmCross.Plugins.BLE.iOS.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.iOS\obj\Debug\MvvmCross.Plugins.BLE.iOS.pdb

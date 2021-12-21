@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GvW9ui6S7JfWNRlV2vtaz3f2gxCxRI//rssaMaUaufSHE9GgX39iOaz7wp67cFBVzi9UxRBDCcHQTFznuzPdNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AllPrimeTech-7\\source\\repos\\XamarineBle\\Plugin.BLE\\Plugin.BLE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

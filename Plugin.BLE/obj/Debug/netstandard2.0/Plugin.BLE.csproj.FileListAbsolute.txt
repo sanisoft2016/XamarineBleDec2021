@@ -1,0 +1,12 @@
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\bin\Debug\netstandard2.0\Plugin.BLE.deps.json
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\bin\Debug\netstandard2.0\Plugin.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\bin\Debug\netstandard2.0\Plugin.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\bin\Debug\netstandard2.0\Plugin.BLE.Abstractions.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\bin\Debug\netstandard2.0\Plugin.BLE.Abstractions.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\obj\Debug\netstandard2.0\Plugin.BLE.AssemblyInfoInputs.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\obj\Debug\netstandard2.0\Plugin.BLE.AssemblyInfo.cs
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\obj\Debug\netstandard2.0\Plugin.BLE.csproj.CoreCompileInputs.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\obj\Debug\netstandard2.0\Plugin.BLE.csproj.CopyComplete
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\obj\Debug\netstandard2.0\Plugin.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\obj\Debug\netstandard2.0\Plugin.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\Plugin.BLE\obj\Debug\netstandard2.0\Plugin.BLE.csproj.AssemblyReference.cache

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VzvOk/C8sOw6B+WOchQm2A6AIjJBjZsXKI4st5MXkq/JXfVUr0e2TZd3bF6Wz31vGCsCT/Y+QapxjXLdL8ubYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AllPrimeTech-7\\source\\repos\\XamarineBle\\Plugin.BLE.Tests\\Plugin.BLE.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit.runner.console\\2.4.1\\xunit.runner.console.2.4.1.nupkg.sha512",
+    "C:\\Users\\AllPrimeTech-7\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

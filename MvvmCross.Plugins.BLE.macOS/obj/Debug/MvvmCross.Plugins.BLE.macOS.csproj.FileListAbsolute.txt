@@ -1,0 +1,13 @@
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\bin\Debug\MvvmCross.Plugins.BLE.macOS.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\bin\Debug\MvvmCross.Plugins.BLE.macOS.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\bin\Debug\MvvmCross.Plugins.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\bin\Debug\Plugin.BLE.Abstractions.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\bin\Debug\Plugin.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\bin\Debug\Plugin.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\bin\Debug\Plugin.BLE.Abstractions.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\bin\Debug\MvvmCross.Plugins.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\obj\Debug\MvvmCross.Plugins.BLE.macOS.csproj.AssemblyReference.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\obj\Debug\MvvmCross.Plugins.BLE.macOS.csproj.CoreCompileInputs.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\obj\Debug\MvvmCross.Plugins.BLE.macOS.csproj.CopyComplete
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\obj\Debug\MvvmCross.Plugins.BLE.macOS.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\MvvmCross.Plugins.BLE.macOS\obj\Debug\MvvmCross.Plugins.BLE.macOS.pdb

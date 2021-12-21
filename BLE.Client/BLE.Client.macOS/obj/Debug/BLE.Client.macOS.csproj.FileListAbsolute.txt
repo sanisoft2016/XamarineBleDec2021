@@ -1,0 +1,40 @@
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\BLE Sample.exe.config
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\BLE Sample.exe
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\BLE Sample.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Acr.UserDialogs.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\MvvmCross.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\MvvmCross.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\MvvmCross.Forms.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\MvvmCross.Forms.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Plugin.Permissions.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Plugin.Permissions.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Plugin.Settings.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Plugin.Settings.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Xamarin.Essentials.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Xamarin.Forms.Platform.macOS.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\BLE.Client.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\MvvmCross.Plugins.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\MvvmCross.Plugins.BLE.macOS.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Plugin.BLE.Abstractions.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Plugin.BLE.dll
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\BLE.Client.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\MvvmCross.Plugins.BLE.macOS.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\MvvmCross.Plugins.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Plugin.BLE.Abstractions.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\bin\Debug\Plugin.BLE.pdb
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\actool\_PartialAppManifest.items
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\coremlc\_PartialAppManifest.items
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\BLE.Client.macOS.csproj.AssemblyReference.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\BLE Sample.exe.config
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\BLE.Client.macOS.csproj.CoreCompileInputs.cache
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\BLE.Client.macOS.csproj.CopyComplete
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\BLE Sample.exe
+C:\Users\AllPrimeTech-7\source\repos\XamarineBle\BLE.Client\BLE.Client.macOS\obj\Debug\BLE Sample.pdb
